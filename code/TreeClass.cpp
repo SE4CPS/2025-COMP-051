@@ -15,10 +15,20 @@ class Plant {
             status = s;
             type = t;
         }
+        
+        void print() {
+            cout << "Name: " << name << endl;
+            cout << "Status: " << status << endl;
+            cout << "Type: " << type << endl;
+        }
 };    
 
 int main()
 {
 	Plant appleTree("Apple","Outdoor","Tree");
+	Plant orangeTree("Orange","Outdoor","Tree");
+
+	appleTree.print();
+	orangeTree.print();
 	return 0;
 }

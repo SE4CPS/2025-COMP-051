@@ -1,0 +1,20 @@
+1: 4
+2: Read input from user
+3: AB
+4: False
+5: True
+6: Do-While
+7: True
+8: False
+9: pop_back()
+10: True
+11: c)
+12: c)
+13: b)
+14: True
+15: True
+16: A function calls itself
+17: True
+18: Catch everything catch(int)
+19: bool isEven(int n) {return (n % 2 == 0);}
+

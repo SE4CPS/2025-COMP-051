@@ -1,0 +1,15 @@
+1: b)
+2: c)
+3: b)
+4: c)
+5: False
+6: True
+7: True
+8: True
+9: void swap(int &a, int &b) {
+	int temp = a;
+	a = b;
+	b = temp;
+}
+
+10:
